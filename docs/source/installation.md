@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.7.
+**gource-python** supports Python >= 3.7.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**gource-python** is available [on PyPI](https://pypi.org/project/gource-python/). Just run
 
 ```bash
-pip install my-package
+pip install gource-python
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **gource-python** from source, first clone [the repository](https://github.com/bensuperpc/gource-python):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/bensuperpc/gource-python.git
+cd gource-python
 ```
 
 Then run
